@@ -1,5 +1,5 @@
 # MsPacman
-BU CAS CS440 Reinforcement Learning
+CS440 Reinforcement Learning Final Project
 
 
 ![Alt text](Mspacman.png?raw=true "game")
